@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ColdCall</string>
+    <string name="student1">Aamir Ali</string>
+    <string name="student2">Adrian Yan</string>
+    <string name="student3">Alex Aney</string>
+    <string name="student4">Bipra Dey</string>
+    <string name="student5">Daniel Dultsin</string>
+    <string name="student6">Darren Doing</string>
+    <string name="student7">Dennis Wang</string>
+    <string name="student8">Dhruv Amin</string>
+    <string name="student9">Eden Kogan</string>
+    <string name="student10">Eli Bui</string>
+    <string name="student11">Elie Belkin</string>
+    <string name="student12">Evelyn Paskhaver</string>
+    <string name="student13">Fardin Iqbal</string>
+    <string name="student14">Jerry He</string>
+    <string name="student15">Kenny Cao</string>
+    <string name="student16">Marc Rosenberg</string>
+    <string name="student17">Matthew Chen</string>
+    <string name="student18">Michael Something</string>
+    <string name="student19">Ming Lin</string>
+    <string name="student20">Mohammed Ihtisham</string>
+    <string name="student21">Noam</string>
+    <string name="student22">Ralf Pacia</string>
+    <string name="student23">Samuel Iskhakov</string>
+    <string name="student24">Sean Kerrigan</string>
+    <string name="student25">Sebastian_Marinescu</string>
+    <string name="student26">Selina_Li</string>
+    <string name="student27">Shuyue_Chen</string>
+    <string name="student28">Tanushri_Sundaram</string>
+    <string name="student29">Vasu Patel</string>
+    <string name="student30">Xinrui Ge</string>
+    <string name="student31">Zhian Maysoon</string>
+</resources>
